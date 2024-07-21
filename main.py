@@ -122,13 +122,13 @@ with tab10:
     number = 420.0
     num10_5 = st.number_input(label="зеленые корма", value=number)
 st.header("Стоимость кормов, руб. за кг.")
-number = 12.5
+number = 324.44
 price_2 = st.number_input(label="концентраты:", value=number)
-number = 21.3
+number = 176.5
 price_3 = st.number_input(label="сено:", value=number)
-number = 20.0
+number = 19.23
 price_4 = st.number_input(label="силос, корнеплоды:", value=number)
-number = 18.4
+number = 423.75
 price_5 = st.number_input(label="зеленые корма:", value=number)
 ans1 = 0
 ans2 = 0
